@@ -1,1 +1,2 @@
-0x01 - Shell Permissions =>>
+#!/bin/bash
+su betty
